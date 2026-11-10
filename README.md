@@ -1,4 +1,6 @@
 # TypeScript & OOP Assignment
+**Name:** Ibtesham Ahmed Promit
+**Email:** promit5334.drmc@gmail.com
 
 ## Overview
 
